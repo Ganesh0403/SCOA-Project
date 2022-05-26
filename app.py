@@ -10,7 +10,6 @@ import base64
 from sklearn.preprocessing import LabelEncoder
 import seaborn as sns
 from sklearn.metrics import confusion_matrix
-import statistics
 import altair as alt
 import random
 
